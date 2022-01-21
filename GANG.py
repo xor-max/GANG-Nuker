@@ -974,7 +974,7 @@ def spammer():
 
         b = input('[>] Do you want to bypass member screening y/n?: ')
 
-        if b == 'n':
+        if b == '.':
             def bpss(invite_code, serverId, token):
                 headers = {
                     'Content-Type': 'application/json',
