@@ -1,7 +1,7 @@
 ## GANG Multi Tool Menu: 
 
 # --> [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
-![image](https://user-images.githubusercontent.com/94531396/149612773-5d73fa57-21b5-4253-86f6-111c692d256d.png)
+![image](https://user-images.githubusercontent.com/94531396/151147034-2958053f-021c-431d-86c9-4f8b885da4e2.png)
 
 ### Features:
 
@@ -28,6 +28,11 @@
 - `Token Bruteforcer`
 - `Token Grabber`
 - `Group Spammer`
+- `Token Generator`
+- `Advanced Token Grabber`
+- `Nitro Generator`
+- `Auto Login`
+- `PC Rat`
 - `Tools`
 - `About`
 - `Exit`
@@ -35,7 +40,7 @@
 ### Requirements:
 - Windows 10 / 11
 - Python v3.10.1 or v3.10.2
-- pip installations - (pip install colorama, pip install tqdm, pip install pyperclip, pip install pyinstaller)
+- pip installations - (pip install colorama, pip install tqdm, pip install pyperclip, pip install pyinstaller, pip install colour, pip install PyNaCl)
 
 
 ## ❗  - Important:
@@ -64,6 +69,8 @@ pip installations:
 - pip install tqdm
 - pip install pyperclip
 - pip install pyinstaller
+- pip install colour
+- pip install PyNaCl
 
 py gang.py
 ```
@@ -98,6 +105,8 @@ PIP INSTALLATIONS:
 - pip install base64
 - pip install emoji
 - pip install json
+- pip install colour
+- pip install PyNaCl
 ```
 
 ### [21] Token Grabber Issues (How To Fix)
@@ -123,4 +132,4 @@ Spammer is amazing tool for raiding and disabling big server.
 
 
 - Make sure to join my [discord](https://discord.gg/raided) and fill free to dm me @††#3333. Thanks for using GANG Multi Tool©
-- Coded / Developed by ††#3333©
+- Coded / Developed by ††#3333 ©
