@@ -1,8 +1,12 @@
 ## GANG Multi Tool Menu: 
 
-# --> [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
-![image](https://user-images.githubusercontent.com/94531396/149612773-5d73fa57-21b5-4253-86f6-111c692d256d.png)
+## DOWNLOAD LINK IS IN: RELEASES
 
+
+# --> [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
+# --> [GANG WEBSITE](https://gang.qtduh.xyz/)
+
+![image](https://user-images.githubusercontent.com/94531396/151184859-ef30c2d0-2116-4c9e-b8c0-d250e675565d.png)
 ### Features:
 
 - `Most Advanced Multi Tool!`
