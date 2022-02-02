@@ -29,6 +29,7 @@
 - `Mass Report`
 - `Server Nuker`
 - `Account Nuker`
+- `Token Generator`
 - `Token Bruteforcer`
 - `Token Grabber`
 - `Group Spammer`
