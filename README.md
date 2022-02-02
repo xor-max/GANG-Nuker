@@ -6,7 +6,7 @@
 # --> [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
 # --> [GANG WEBSITE](https://gang.qtduh.xyz/)
 
-![image](https://user-images.githubusercontent.com/94531396/151184859-ef30c2d0-2116-4c9e-b8c0-d250e675565d.png)
+![image](https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png)
 ### Features:
 
 - `Most Advanced Multi Tool!`
