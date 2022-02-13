@@ -91,7 +91,6 @@ PIP INSTALLATIONS:
 - pip install discord
 - pip install pyinstaller
 - pip install colorama
-- pip install pyautoui
 - pip install requests
 - pip install websocket
 - pip install pyautogui
@@ -100,9 +99,10 @@ PIP INSTALLATIONS:
 - pip install asyncio
 - pip install pillow
 - pip install discum
-- pip install base64
 - pip install emoji
-- pip install json
+- pip install goog
+- pip install autologin
+- pip install nl
 ```
 
 ### [21] Token Grabber Issues (How To Fix)
