@@ -128,4 +128,4 @@ Spammer is amazing tool for raiding and disabling big server.
 
 
 - Make sure to join my [discord](https://discord.gg/) and fill free to dm me @††#7777. Thanks for using GANG Multi Tool©
-- Coded / Developed by ††#7777 ©
+- Coded / Developed by ††#7777 © 
