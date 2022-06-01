@@ -109,7 +109,7 @@ PIP INSTALLATIONS:
 
 When opening the .exe file it doesn't do anything when opening it? 
 this means that you dont have the right pip installations, the main one you should have is `pip install pyinstaller` + `pip install discord`
-making sure you follow all the steps in the given video, if you still need help with making contact me on discord @††#3333!
+making sure you follow all the steps in the given video, if you still need help with making contact me on discord @††#7777!
 
 
 ### [1] Joiner not working (How To Fix)
