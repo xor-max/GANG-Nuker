@@ -1,47 +1,12 @@
-# GANG-NUKER / GANG MULTI TOOL
-
-## DOWNLOAD LINK IS IN: RELEASES
-
+![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
 
 # --> [YOUTUBE TUTORIAL COMING SOON!](https://www.youtube.com)
 # --> [GANG WEBSITE COMING SOON!](https://www.google.com)
 
 ![image](https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png)
-### Features:
+![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 
-- `Most Advanced Multi Tool!`
 
-- `Joiner`
-- `Leaver`
-- `Token Checker`
-- `Token Onliner`
-- `Token Grabber`
-- `Server MassDM`
-- `Account Nuker`
-- `Server Nuker`
-- `Spammer`
-- `DM Spammer`
-- `Friend Spammer`
-- `HypeSquad Joiner`
-- `Reaction Spammer`
-- `NickName Changer`
-- `Webhook Spammer`
-- `VC Spammer`
-- `MassReport`
-- `About/Activity`
-- `Typing Spammer`
-- `Token Bruteforcer`
-- `Status Changer`
-- `Group Spammer`
-- `Auto Login`
-- `About`
-- `Token Generator`
-- `Nitro Generator`
-- `Advanced Token Grabber`
-- `PFP Changer`
-- `PC Rat`
-- `Tools`
-- `EXIT`
 
 ### Requirements:
 - Windows 10 / 11
