@@ -3,8 +3,8 @@
 ## DOWNLOAD LINK IS IN: RELEASES
 
 
-# --> [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
-# --> [GANG WEBSITE](https://gang.qtduh.xyz/)
+# --> [YOUTUBE TUTORIAL COMING SOON!](https://www.youtube.com)
+# --> [GANG WEBSITE COMING SOON!](https://www.google.com)
 
 ![image](https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png)
 ### Features:
