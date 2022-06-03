@@ -10,32 +10,38 @@
 ### Features:
 
 - `Most Advanced Multi Tool!`
+
+- `Joiner`
+- `Leaver`
+- `Token Checker`
+- `Token Onliner`
+- `Token Grabber`
+- `Server MassDM`
+- `Account Nuker`
+- `Server Nuker`
 - `Spammer`
 - `DM Spammer`
 - `Friend Spammer`
-- `Reaction Spam`
-- `WebhookSpammer`
-- `Typing Spammer`
-- `VC Spammer`
-- `Mass DM`
-- `About / Activity`
-- `Joiner`
-- `Leaver`
-- `TokenChecker`
-- `Token Onliner`
 - `HypeSquad Joiner`
+- `Reaction Spammer`
 - `NickName Changer`
-- `Status Changer` 
-- `Mass Report`
-- `Server Nuker`
-- `Account Nuker`
-- `Token Generator`
+- `Webhook Spammer`
+- `VC Spammer`
+- `MassReport`
+- `About/Activity`
+- `Typing Spammer`
 - `Token Bruteforcer`
-- `Token Grabber`
+- `Status Changer`
 - `Group Spammer`
-- `Tools`
+- `Auto Login`
 - `About`
-- `Exit`
+- `Token Generator`
+- `Nitro Generator`
+- `Advanced Token Grabber`
+- `PFP Changer`
+- `PC Rat`
+- `Tools`
+- `EXIT`
 
 ### Requirements:
 - Windows 10 / 11
