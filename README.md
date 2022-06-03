@@ -1,10 +1,11 @@
 ![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
-
+![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
+## Original CMD Print:
+![image](https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png)
 # --> [YOUTUBE TUTORIAL COMING SOON!](https://www.youtube.com)
 # --> [GANG WEBSITE COMING SOON!](https://www.google.com)
 
 ![image](https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png)
-![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 
 
 
