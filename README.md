@@ -42,7 +42,7 @@ type the command in CMD: py GANG.py
 then type the pip installations that it tells you to...
 
 if it keeps crashing here is the solution:
-you missed a step or didn't do it correcly, make sure to follow all the pip installations to ensure GANG Multi Tool works!
+you missed a step or didn't do it correcly, make sure to follow all the pip installations to ensure GANG-Nuker WORKS!!
 
 if this command didnt work: ' pip install -r requirements.txt ' then make sure to do all the pip installations separately!
 
