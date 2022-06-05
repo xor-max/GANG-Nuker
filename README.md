@@ -62,7 +62,6 @@ pip install discum
 pip install emoji
 pip install goog
 pip install autologin
-pip install nl
 ```
 
 ### [21] Token Grabber Issues (How To Fix)
