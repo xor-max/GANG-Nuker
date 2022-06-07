@@ -93,5 +93,5 @@ Spammer is amazing tool for raiding and disabling big server.
 
 
 
-- Make sure to join my [discord](https://discord.gg/) and fill free to dm me @††#9999. Thanks for using GANG Multi Tool©
+- Make sure to join my [discord](https://discord.gg/g4B7Ht58y4) and fill free to dm me @††#9999. Thanks for using GANG Multi Tool©
 - Coded / Developed by ††#9999 © 
