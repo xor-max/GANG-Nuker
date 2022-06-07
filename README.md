@@ -1,3 +1,10 @@
+</p>
+<p align="center">
+<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/gangnuker/GANG-Nuker.zip">Fast Download</a> |
+<a href="https://discord.gg/7RZAVrhykG">Discord</a> |
+<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/tag/gangnuker">Recent Updates</a>
+</p>
+
 ![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
 ![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 ## Original CMD Print:
