@@ -22,7 +22,7 @@
 - [x] - [Dev / Coded by ††#9999]
 - [x] - [Everything Should Work!]
 - [ ] - [Change Color Of 'GANG' - COMING SOON!]
-- [x] - [Changing Name / Theme Soon??]
+- [ ] - [Changing Name / Theme Soon??]
 
 
 
