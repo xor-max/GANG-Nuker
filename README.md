@@ -1,7 +1,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/gangnuker/GANG-Nuker.zip">Fast Download</a> |
-<a href="https://discord.gg/7RZAVrhykG">Discord</a> |
+<a href="https://discord.gg/wizzed">Discord</a> |
 <a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/tag/gangnuker">Recent Updates</a>
 </p>
 
@@ -93,5 +93,5 @@ Spammer is amazing tool for raiding and disabling big servers!
 
 
 
-- Make sure to join my [discord](https://discord.gg/g4B7Ht58y4) and fill free to dm me @††#9999. Thanks for using GANG-Nuker©
+- Make sure to join my [discord](https://discord.gg/wizzed) and fill free to dm me @††#9999. Thanks for using GANG-Nuker©
 - Coded / Developed by ††#9999 © 
