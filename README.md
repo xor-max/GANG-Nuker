@@ -71,20 +71,20 @@ pip install goog
 pip install autologin
 ```
 
-### [21] Token Grabber Issues (How To Fix)
+### [21] Token Grabber Issues (How To Fix!)
 
 When opening the .exe file it doesn't do anything when opening it? 
 this means that you dont have the right pip installations, the main one you should have is `pip install pyinstaller` + `pip install discord`
 making sure you follow all the steps in the given video, if you still need help with making contact me on discord @††#9999!
 
 
-### [1] Joiner not working (How To Fix)
+### [1] Joiner not working (How To Fix!)
 
 When putting the tokens in token.txt and still not working this means you have tried to many times in that 1 server so the multi tool will stop trying to send the tokens to that server!
 if you dont have tokens and try do the joiner option it will do nothing - must have tokens for it to work!
 
 
-### [9] Spammer not working (How To Fix)
+### [9] Spammer not working (How To Fix!)
 
 Spammer is working fine! ensure you have the tokens in token.txt and make sure to do [3] Token Checker to ensure your tokens are ready for attack, 
 Spammer is amazing tool for raiding and disabling big servers!
