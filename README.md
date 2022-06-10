@@ -15,7 +15,7 @@
 
 ### Requirements:
 - Windows 10 / 11
-- Python v3.10+ / v3.9+
+- Python [v3.10+](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) / [v3.9+](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
 - PIP Installations / Modules! (tap "install.bat")
 
 - [x] - [Update Fequently]
