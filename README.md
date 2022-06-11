@@ -1,8 +1,13 @@
 </p>
 <p align="center">
-<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/gangnuker/GANG-Nuker.zip">Fast Download</a> |
-<a href="https://discord.gg/wizzed">Discord</a> |
+<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/gangnuker/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
+<a href="https://discord.gg/wizzed">Discord</a> ㅤ•ㅤ
 <a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/tag/gangnuker">Recent Updates</a>
+</p>
+</p>
+<p align="center">
+<a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">Python v3.10</a>ㅤㅤ 
+<a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe">Python v3.9</a> 
 </p>
 
 ![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
