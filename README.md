@@ -37,10 +37,10 @@
 git clone https://github.com/TT-Tutorials/GANG-Nuker
 pip installations:
 
-- pip install colorama
-- pip install tqdm
-- pip install pyperclip
-- pip install pyinstaller
+pip install colorama
+pip install tqdm
+pip install pyperclip
+pip install pyinstaller
 
 py gang.py
 ```
