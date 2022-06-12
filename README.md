@@ -56,7 +56,11 @@ then type the pip installations that it tells you to...
 if it keeps crashing here is the solution:
 you missed a step or didn't do it correcly, make sure to follow all the pip installations to ensure GANG-Nuker WORKS!
 
-if this command didnt work: ' pip install -r requirements.txt ' then make sure to do all the pip installations separately!
+Create a .txt called requirements and put all the pip installations listed below.
+once you have done that bring up cmd and type ' pip install -r requirements.txt '
+than it should work if it doesnt create a ticket in my Discord server!
+
+-------------------
 
 PIP INSTALLATIONS:
 
@@ -98,5 +102,5 @@ Spammer is amazing tool for raiding and disabling big servers!
 
 
 
-- Make sure to join my [discord](https://discord.gg/wizzed) and fill free to dm me @††#9999. Thanks for using GANG-Nuker©
+- Make sure to join my [discord](https://discord.gg/vrgzxfkSvX) and fill free to dm me @††#9999. Thanks for using GANG-Nuker©
 - Coded / Developed by ††#9999 © 
