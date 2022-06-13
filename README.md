@@ -60,7 +60,7 @@ Create a .txt called requirements and put all the pip installations listed below
 once you have done that bring up cmd and type ' pip install -r requirements.txt '
 than it should work if it doesnt create a ticket in my Discord server!
 
--------------------
+--------------------
 
 PIP INSTALLATIONS:
 
