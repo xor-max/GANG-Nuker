@@ -51,7 +51,7 @@ https://github.com/TT-Tutorials/GANG-Nuker/releases
 Download the latest release (GANG-Nuker.zip)
 Drag it out to desktop and extract it
 type the command in CMD: py GANG.py
-then type the pip installations that it tells you to...
+then type the pip installations that it tells you to..
 
 if it keeps crashing here is the solution:
 you missed a step or didn't do it correcly, make sure to follow all the pip installations to ensure GANG-Nuker WORKS!
