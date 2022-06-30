@@ -102,5 +102,8 @@ Spammer is amazing tool for raiding and disabling big servers!!
 
 
 
+
+<p align= center</p><a href="https://cheataway.com" target="_blank"><img src="https://user-images.githubusercontent.com/94531396/176788016-16c169b5-ace5-4cc2-b633-d752c6c5c2eb.gif" alt="GANG-Nuker"></a>
+<p align="center">
 - Make sure to join my [discord](https://discord.gg/Zvjqu9w6bV) and fill free to dm me @††#9999. Thanks for using GANG-Nuker©
 - Coded / Developed by ††#9999 © 
