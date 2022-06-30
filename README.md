@@ -132,7 +132,7 @@ except:
 ```
 
 <h1 align="center">
-  <a id="top"></a>Discord Webhook Protector 🔰
+  <a id="top"></a>🙏
 </h1>
 
 <p align="center"> 
