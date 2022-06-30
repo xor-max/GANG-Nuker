@@ -132,7 +132,7 @@ except:
 ```
 
 <h1 align="center">
-  <a id="top"></a>🙏
+  <a id="top"></a>✨ Thanks For Using GANG-Nuker! ✨
 </h1>
 
 <p align="center"> 
@@ -142,5 +142,6 @@ except:
 </p>
 <h2 align="center">
 GANG-Nuker
-@††#9999
+    
+@††#9999 
 </h2>
