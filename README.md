@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/TT-Tutorials/GANG-Nuker?style=flat-square"/>
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=TT-Tutorials/GANG-Nuker&metric=ncloc"/>
-  <img src="https://img.shields.io/github/stars/TT-Tutorials/GANG-Nuker?color=444444&label=Stars&style=flat-square"/>
-  <img src="https://img.shields.io/github/forks/TT-Tutorials/GANG-Nuker?color=444444&label=Forks&style=flat-square"/>
+<img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/TT-Tutorials/GANG-Nuker?style=flat-square" </a>
+<img src="https://sonarcloud.io/api/project_badges/measure?project=TT-Tutorials_GANG-Nuker&metric=ncloc" </a>
+<img src="https://img.shields.io/github/downloads/TT-Tutorials/GANG-Nuker/total?color=%23daff00&label=1.4.6 Downloads&style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/TT-Tutorials/GANG-Nuker?color=%23daff00&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/TT-Tutorials/GANG-Nuker?color=%23daff00&label=Forks&style=flat-square" </a>
 </p>
+
 
 </p>
 <p align="center">
@@ -31,10 +33,6 @@
 <img src="https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png"></img>
   </kbd>
 </p>
-
-## --> [GANG WEBSITE COMING SOON!](https://www.google.com)
-## --> [YOUTUBE TUTORIAL!](https://youtu.be/hRja5D3bQVE)
-## --> ![image](https://user-images.githubusercontent.com/94531396/176797967-8266bb24-43ae-4e21-849b-bff38d3a0a30.png)(https://discord.gg/g4B7Ht58y4)
 
 ### Requirements:
 - Windows 10 / 11
