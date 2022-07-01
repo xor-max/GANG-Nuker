@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?style=flat-square"/>
+  <img src="https://img.shields.io/github/last-commit/TT-Tutorials/GANG-Nuker?style=flat-square"/>
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=TT-Tutorials/GANG-Nuker&metric=ncloc"/>
+  <img src="https://img.shields.io/github/stars/TT-Tutorials/GANG-Nuker?color=444444&label=Stars&style=flat-square"/>
+  <img src="https://img.shields.io/github/forks/TT-Tutorials/GANG-Nuker?color=444444&label=Forks&style=flat-square"/>
+</p>
+
 </p>
 <p align="center">
 <a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/gangnuker/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
@@ -14,11 +22,19 @@
 
 ![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
 ![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
-## Original CMD Print:
-![image](https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png)
+<h1 align="center">
+  <a id="top"></a>💨 Command Prompt Print:
+</h1>
+
+<p align="center"> 
+  <kbd>
+<img src="https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png"></img>
+  </kbd>
+</p>
+
 ## --> [GANG WEBSITE COMING SOON!](https://www.google.com)
 ## --> [YOUTUBE TUTORIAL!](https://youtu.be/hRja5D3bQVE)
-## --> [JOIN THE DISCORD SERVER!](https://discord.gg/g4B7Ht58y4)
+## --> ![image](https://user-images.githubusercontent.com/94531396/176797967-8266bb24-43ae-4e21-849b-bff38d3a0a30.png)(https://discord.gg/g4B7Ht58y4)
 
 ### Requirements:
 - Windows 10 / 11
