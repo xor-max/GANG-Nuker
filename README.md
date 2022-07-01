@@ -24,9 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
 ![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
-<h1 align="center">
-  <a id="top"></a>💨 Command Prompt Print:
-</h1>
+
 
 <p align="center"> 
   <kbd>
@@ -34,16 +32,18 @@
   </kbd>
 </p>
 
-### Requirements:
-- Windows 10 / 11
-- Python [v3.10+](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) / [v3.9+](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
-- PIP Installations / Modules! (tap "install.bat")
+### Settings:
+- [x] - **Windows 10 / 11**
+- [x] - **Download Python:** [v3.10](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) **or** [v3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
 
-- [x] - [Update Fequently]
-- [x] - [Dev / Coded by ††#9999]
-- [x] - [Everything Should Work!]
-- [ ] - [Change Color Of 'GANG' - COMING SOON!]
-- [ ] - [Changing Name / Theme Soon??]
+- [x] - **100% Safe**
+- [x] - **Fequently Updates**
+- [x] - **Might Have Some Bugs!**
+- [x] - **Python Provided**
+
+> **WARNING:** Many people have been selling/distributing of GANG-Nuker!
+
+> **DO NOT** Installing GANG-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
 ## Installation
 
@@ -70,9 +70,8 @@ Launch Program and Enjoy!
 ---
 
 
-### <a id="code-example"></a>〢 Code example
+### <a id="code-example"></a>💻〢Proxie Supoort Example:
 
-Proxie Support:
 ```py
     def fetchProxies(url, custom_regex):
         global proxylist
@@ -124,10 +123,8 @@ Proxie Support:
                 f.write(f"{proxy}\n")
     execution_time = (time.time() - startTime)
 ```
----
-### <a id="code-example"></a>〢 Code example
+### <a id="code-example"></a>💻〢Auto Download Modules:
 
-Auto Download Modules:
 ```py
 import os
 import threading
