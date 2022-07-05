@@ -125,7 +125,7 @@ Launch Program and Enjoy!
 ### <a id="code-example"></a>💻〢Auto Download Modules:
 
 ```py
-import os
+import os 
 import threading
 
 try:
