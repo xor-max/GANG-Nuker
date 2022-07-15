@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/github/forks/TT-Tutorials/GANG-Nuker?color=6d00c1&label=Stars&style=flat-square" </a>
 </p>
 
- 
+
 </p>
 <p align="center">
 <a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/gangnuker/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
