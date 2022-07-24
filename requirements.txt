@@ -13,6 +13,7 @@ keyboard
 colorama
 discord
 asyncio
+easygui
 discum
 colour
 pillow
