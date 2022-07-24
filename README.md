@@ -30,7 +30,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://user-images.githubusercontent.com/94531396/152148202-e3c15d38-7523-4a7d-afd9-4124db327153.png"></img>
+<img src="https://media.discordapp.net/attachments/997998908791857213/1000706753308139540/unknown.png"></img>
   </kbd>
 </p>
 
