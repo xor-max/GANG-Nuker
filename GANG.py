@@ -88,7 +88,7 @@ from websocket import WebSocket
 from colorama import Back, Fore, Style
 from concurrent.futures import ThreadPoolExecutor
 from discord import Webhook, RequestsWebhookAdapter
-
+ 
 import os
 from os import system
 
