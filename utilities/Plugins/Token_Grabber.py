@@ -181,7 +181,7 @@ if __name__ == '__main__':
 
             print(f'{y}[{b}#{y}]{w} Compiling Files...')
             time.sleep(1)
-            os.system(f"pyinstaller --onefile --noconsole --clean --log-level=INFO -i NONE -n {fileName} {fileName}.py")
+            os.system(f"pyinstaller --onefile --noconsole --clean -i NONE {fileName}.py")
             clear()
             print(f'{y}[{b}#{y}]{w} Deleting Useless Files...')
             time.sleep(1)
