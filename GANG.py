@@ -717,7 +717,7 @@ Token Onliner is in the Paid Version of GANG-Nuker!\nIf You Are Wanting to Purch
                 server = input(f'[\x1b[95m>\x1b[95m\x1B[37m] Server ID: ')
 
 
-                intents = discord.Intents.all()
+                intents = discord.intents.all()
                 intents.members = True
 
                 headerrs = {'Authorization': f'{token}',
