@@ -19,7 +19,7 @@
 <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe">Python v3.9</a>
 </p>
 <p align="center">
-<a href="https://gangnuker.com/">WEBSITE</a>
+<a href="https://gangnuker.org/">WEBSITE</a>
 </p>
  
 ---
